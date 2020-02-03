@@ -1,24 +1,26 @@
 # Chapte 18 : process and design
 
-How to approach building a site
-Understanding your audience and their needs
-How to present information visitors want to see
+### How to approach building a site Understanding your audience and their needs
+### How to present information visitors want to see
 
 ## Who is the Site For?
 ### Target Audience: individuals
 - What is the age range of your target audience?
 - Will your site appeal to more women or men? What is the mix?
 - Which country do your visitors live in?
+
 ### Target Audience: Companies
 - What is the size of the company or relevant department?
 - What is the position of people in the company who visit your site?
 - Will visitors be using the site for themselves or for someone else?
 
 ## Why People Visit YOUR Website
+
 ### Key Motivations
 - Are they looking for general entertainment or do they
 need to achieve a specific goal?
 - If there is a specific goal, is it a personal or professional one?
+
 ### Specific Goals
 - Do they want general information / research (such as background on a topic /company),
  or are they after something specific (such as a particular fact or information on a product)?
