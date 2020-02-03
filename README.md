@@ -1,4 +1,21 @@
 ## Welcome to GitHub Pages
+### learning-journy
+
+#### mustafa hamdan
+#### iam student in ltuc university
+#### *I study software language*
+### programs 
+1. css
+2. html
+3. java 
+
+### this is the site i make it
+
+home   |  link
+---------- | ----------
+#### home | [link 2](https://mustafahamdanah.github.io/learning-journal/)
+#### learning-markdawn | [link 2](https://mustafahamdanah.github.io/learning-journal/learning-markdawn)
+#### Text-editor | [link3](https://mustafahamdanah.github.io/learning-journal/Text-editor)
 
 # Ways to Develop a Growth Mindset
 ## **Acknowledge and embrace imperfections**
@@ -11,3 +28,4 @@
 
 ## mustafa hamdan
 ### my profile in githup [profile](https://github.com/mustafahamdanah)
+
