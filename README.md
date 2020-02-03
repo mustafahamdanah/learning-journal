@@ -12,7 +12,7 @@
 ### this is the site i make it
 
 home   |  link
----------- | ----------
+---------- | -----------
  home | [link 1](https://mustafahamdanah.github.io/learning-journal/)
  learning-markdawn | [link 2](https://mustafahamdanah.github.io/learning-journal/learning-markdawn)
  Text-editor | [link 3](https://mustafahamdanah.github.io/learning-journal/Text-editor)
