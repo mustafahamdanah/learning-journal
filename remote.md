@@ -9,5 +9,5 @@
 
 ##### $ cd example
 ##### $ git remote -v
-remote1 https://github.com/remote1/example (fetch)
-remote1 https://github.com/remote1/example (push)
+##### remote1 https://github.com/remote1/example (fetch)
+##### remote1 https://github.com/remote1/example (push)

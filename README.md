@@ -16,7 +16,8 @@ home   |  link
 #### home | [link 1](https://mustafahamdanah.github.io/learning-journal/)
 #### learning-markdawn | [link 2](https://mustafahamdanah.github.io/learning-journal/learning-markdawn)
 #### Text-editor | [link 3](https://mustafahamdanah.github.io/learning-journal/Text-editor)
-#### remote | [link 4]()
+#### remote | [link 4](https://mustafahamdanah.github.io/learning-journal/remote)
+
 # Ways to Develop a Growth Mindset
 ## **Acknowledge and embrace imperfections**
 #### Hiding from your weaknesses means you’ll never overcome them
