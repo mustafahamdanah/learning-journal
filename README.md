@@ -18,7 +18,7 @@ home   |  link
  Text-editor | [link 3](https://mustafahamdanah.github.io/learning-journal/Text-editor)
  remote | [link 4](https://mustafahamdanah.github.io/learning-journal/remote)
  Html-chapter 18 | [link 5](https://mustafahamdanah.github.io/learning-journal/Html-chapter18)
- R05- Design-web-pages-with-CSS | [link 6]()
+ R05- Design-web-pages-with-CSS | [link 6](https://mustafahamdanah.github.io/learning-journal/R05-%20Design-web-pages-with-CSS)
 # Ways to Develop a Growth Mindset
 ## **Acknowledge and embrace imperfections**
 #### Hiding from your weaknesses means you’ll never overcome them

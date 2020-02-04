@@ -1,4 +1,4 @@
- ## css chapter 11 : color
+## css chapter 11 : color
 
 - How to specify colors 
 - Color terminology and contrast 
