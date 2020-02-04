@@ -19,6 +19,9 @@ home   |  link
  remote | [link 4](https://mustafahamdanah.github.io/learning-journal/remote)
  Html-chapter 18 | [link 5](https://mustafahamdanah.github.io/learning-journal/Html-chapter18)
  R05- Design-web-pages-with-CSS | [link 6](https://mustafahamdanah.github.io/learning-journal/R05-%20Design-web-pages-with-CSS)
+ Read-06a-Dynamic web pages with JavaScript | [link 7](https://mustafahamdanah.github.io/learning-journal/Read-06a-Dynamic%20web%20pages%20with%20JavaScript)
+ Read-06b-Computer Architecture and Logic | [link 8](https://mustafahamdanah.github.io/learning-journal/Read-06b-Computer%20Architecture%20and%20Logic)
+
 # Ways to Develop a Growth Mindset
 ## **Acknowledge and embrace imperfections**
 #### Hiding from your weaknesses means you’ll never overcome them
